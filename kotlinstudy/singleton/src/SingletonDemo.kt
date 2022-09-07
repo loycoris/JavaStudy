@@ -1,0 +1,7 @@
+object SingletonDemo{
+
+}
+
+fun main() {
+
+}

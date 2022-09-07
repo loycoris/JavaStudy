@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" filepath="$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuildDesign/BuildDesign.iml" filepath="$PROJECT_DIR$/BuildDesign/BuildDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorDesign/DecoratorDesign.iml" filepath="$PROJECT_DIR$/DecoratorDesign/DecoratorDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacadeDesign/FacadeDesign.iml" filepath="$PROJECT_DIR$/FacadeDesign/FacadeDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryDesign/FactoryDesign.iml" filepath="$PROJECT_DIR$/FactoryDesign/FactoryDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlyWeight/FlyWeight.iml" filepath="$PROJECT_DIR$/FlyWeight/FlyWeight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyDesign/ProxyDesign.iml" filepath="$PROJECT_DIR$/ProxyDesign/ProxyDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplatePattern/TemplatePattern.iml" filepath="$PROJECT_DIR$/TemplatePattern/TemplatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidstudy.iml" filepath="$PROJECT_DIR$/androidstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleFactory/simpleFactory.iml" filepath="$PROJECT_DIR$/simpleFactory/simpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+    </modules>
+  </component>
+</project>
